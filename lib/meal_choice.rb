@@ -8,6 +8,5 @@ end
 def meal_choice(veg1, veg2, protein = 'roast beef')
   puts "What a nutritious meal!"
   meal = "A plate of #{protein} with #{veg1} and #{veg2}."
-  puts meal
-  meal
+  return meal
 end
