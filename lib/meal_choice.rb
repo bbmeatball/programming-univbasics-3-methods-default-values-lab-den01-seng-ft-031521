@@ -9,4 +9,4 @@ def meal_choice (veg1, veg2, protein="roast beef")
   puts "What a nutritious meal!"
   puts "a plate of #{protein} with #{veg1} and #{veg2}."
 end
-meal_choice ( "broccoli", "maraconi")
+meal_choice (veg1, veg2)
